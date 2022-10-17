@@ -1,3 +1,3 @@
 # Machine_learning
 
-Just uploading the machine learning assignments done in class
+Just uploading the machine learning works done in class
